@@ -6,18 +6,18 @@ An Expense Tracker app that helps users manage and track their expenses. It feat
 
 ### Features:
 
-- Expense Management with SQLite (15 Marks)
+- Expense Management with SQLite
 
 - Fields: Title, Amount, Date, and Category (e.g., Food, Transport).
   Implement CRUD operations for expenses.
-  Firebase Cloud Sync (10 Marks)
+  Firebase Cloud Sync 
 
 - Enable user login/signup with Firebase Authentication.
   Sync expenses with Firestore.
-  Search and Filter (5 Marks)
+  Search and Filter 
 
 - Search expenses by title and filter by category.
-  Offline Support (5 Marks)
+  Offline Support 
 
 - Allow the app to work offline and sync when online.
 
@@ -33,11 +33,11 @@ An Expense Tracker app that helps users manage and track their expenses. It feat
   <img src='https://github.com/user-attachments/assets/fe1e5c70-076b-4b31-8929-93eb5e759f40' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 ## Video:
 
+https://github.com/user-attachments/assets/cf623b3f-991b-4841-828e-19c292361323
 
-https://github.com/user-attachments/assets/0a87650c-2d12-4c73-ab9d-9f54fd0e643d
+
 
 
 
