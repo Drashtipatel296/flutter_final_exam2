@@ -37,6 +37,9 @@ An Expense Tracker app that helps users manage and track their expenses. It feat
 
 https://github.com/user-attachments/assets/cf623b3f-991b-4841-828e-19c292361323
 
+https://github.com/user-attachments/assets/266e5c0c-6a46-46a6-a213-80e0b14e169b
+
+
 
 
 
